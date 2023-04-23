@@ -2,7 +2,7 @@ appId: 'blockteamlauncher'
 productName: 'Block Team 런처'
 artifactName: '${productName}-setup-${version}.${ext}'
 
-copyright: 'Copyright © 2021-2022 Ru_Nan'
+copyright: 'Copyright © 2021-2023 Ru_Nan'
 
 asar: true
 compression: 'maximum'
