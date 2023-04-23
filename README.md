@@ -23,7 +23,16 @@ Block Team 런처는 [HeliosLauncher](https://github.com/dscalzi/HeliosLauncher)
 ### 상태코트 (optional)
 
 - 알파 버전 (Alpha)
-  - 내부 개발 테스트 버전 입니다.
-
+  - 내부 개발 테스트 버전입니다.
+- 베타 버전 (Beta)
+  - 개발 최종 완선 전에 검사를 하기 위한 버전입니다.
+- Pre 버전 (Pre-release)
+  - 정식 개발 전 테스트 중 수정된 비공식 배포 버전 입니다.
+- 공식(발매) 버전 (final release)
+  - 최종 공식 배포 버전입니다.
+  - release 태그는 생략하며, 필요에 따라 stable을 표기합니다.
+  - stable 표기시에는, stable 버전 브랜치를 생성합니다..
+- 수정 카운트 (optional)
+  - 상태코드 뒤에 증가하며 수정 횟수를 나타냅니다.
 
 
