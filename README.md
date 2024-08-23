@@ -1,6 +1,19 @@
 # Block Team 런처
 Block Team 런처는 [HeliosLauncher](https://github.com/dscalzi/HeliosLauncher)를 기반으로 콘텐츠 이용자의 편의성을 위해 제작되었습니다.         
 콘텐츠 인스턴스를 선택해 직접 일일이 설치할 필요 없이 자동으로 콘텐츠에 필요한 다운로드 및 자동 업데이트가 진행됩니다.
+## 지원 모드 플랫폼
+
+### Forge API
+- Release v1.0.0 +
+- Minecraft 1.5.2 +
+
+### Fabric API
+- Release v2.1.0 +
+- Minecraft 1.14 +
+### NeoForge API
+- 업데이트 예정
+- Minecraft 1.21 +
+
 
 ## 버전 포맷
 ```<주번호>.<부번호>.<패치번호>[-<상태코드><수정카운트>]```
